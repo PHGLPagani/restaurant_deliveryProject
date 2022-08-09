@@ -1,0 +1,84 @@
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.exe
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.deps.json
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.runtimeconfig.json
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.dll
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\bin\Debug\net5.0-windows\ref\RestaurantProject.dll
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.pdb
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.Resources.resources
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.GenerateResource.cache
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.AssemblyInfo.vb
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.dll
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\ref\RestaurantProject.dll
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.pdb
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.genruntimeconfig.cache
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.InfoScreen.resources
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.OrderScreen.resources
+C:\Users\pedro\source\repos\RestaurantProject\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.ReceiptScreen.resources
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.exe
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.deps.json
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.runtimeconfig.json
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.dll
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\ref\RestaurantProject.dll
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.pdb
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.InfoScreen.resources
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.Resources.resources
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.OrderScreen.resources
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.ReceiptScreen.resources
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.GenerateResource.cache
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.AssemblyInfo.vb
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.dll
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\ref\RestaurantProject.dll
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.pdb
+C:\Users\pedro\Desktop\Restaurant Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.genruntimeconfig.cache
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.exe
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.deps.json
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.runtimeconfig.json
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.dll
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\ref\RestaurantProject.dll
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.pdb
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.InfoScreen.resources
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.Resources.resources
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.OrderScreen.resources
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.ReceiptScreen.resources
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.GenerateResource.cache
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.AssemblyInfo.vb
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.dll
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\ref\RestaurantProject.dll
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.pdb
+C:\Users\pedro\Desktop\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.genruntimeconfig.cache
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.exe
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.deps.json
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.runtimeconfig.json
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.runtimeconfig.dev.json
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.dll
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\bin\Debug\net5.0-windows\RestaurantProject.pdb
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.AssemblyReference.cache
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.InfoScreen.resources
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.Resources.resources
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.OrderScreen.resources
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.ReceiptScreen.resources
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.GenerateResource.cache
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.AssemblyInfoInputs.cache
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.AssemblyInfo.vb
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.vbproj.CoreCompileInputs.cache
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.dll
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\refint\RestaurantProject.dll
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.pdb
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\RestaurantProject.genruntimeconfig.cache
+E:\OLD PC BACKUPS\OLD PC 1\School\OLDER\Fall 2021\MSIS 310 (Coding)\VB P\Grano Lula Pagani, Pedro Henrique - VB Project\VB_Project\RestaurantProject\obj\Debug\net5.0-windows\ref\RestaurantProject.dll

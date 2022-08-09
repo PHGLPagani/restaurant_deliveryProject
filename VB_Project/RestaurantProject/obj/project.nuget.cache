@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qzg+a4XjM0TVgmRHWwbDiy8//j4xt6Hy2xgM39QydCMt4Z3+P0b/etgQ92LOHZ+g8us1dJzo62TqBlN3RvJPWw==",
+  "success": true,
+  "projectFilePath": "E:\\OLD PC BACKUPS\\OLD PC 1\\School\\OLDER\\Fall 2021\\MSIS 310 (Coding)\\VB P\\Grano Lula Pagani, Pedro Henrique - VB Project\\VB_Project\\RestaurantProject\\RestaurantProject.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
